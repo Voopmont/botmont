@@ -1,0 +1,9 @@
+# no token for you
+.env
+
+
+# venv stuff
+bin/
+include/
+lib/
+lib64/
